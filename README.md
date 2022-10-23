@@ -3,7 +3,7 @@ Streaming application
 
 ## Projet de groupe
 
-- Apllication de streaming avec consomation d'API / fetch / JSON 
+- Application de streaming avec consomation d'API / fetch / JSON 
 - Bookmarked / localStorage
 - Search bar / filtre
 
