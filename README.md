@@ -1,5 +1,4 @@
 # Streamy
-Streaming application
 
 ## Projet de groupe
 
